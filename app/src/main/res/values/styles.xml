@@ -1,0 +1,15 @@
+<resources>
+
+    <!--白天主题-->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!--黑夜主题-->
+    <style name="AppTheme.Black" parent="Theme.AppCompat">
+
+    </style>
+
+</resources>
